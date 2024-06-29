@@ -23,5 +23,6 @@ I'm a backend web developer.
 <p align="left">
 <img src="https://www.codewars.com/users/zarasfara/badges/large"/>
 <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/zarasfara)
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/zarasfara?theme=dark&font=ABeeZee)
