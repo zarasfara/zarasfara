@@ -5,7 +5,7 @@ I'm a backend web developer.
 
 - I’m currently working on my pet projects.
 
-- I’m currently learning Go, Laravel, PHP, Java.
+- I’m currently learning Go, C#(ASP.NET).
 
 ## 📞 Connect with me
 
@@ -13,7 +13,7 @@ I'm a backend web developer.
 
 
 ## ⚒️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,docker,laravel,linux,mysql,postgres,php,postman,vue,nginx,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,cs,dotnet,docker,laravel,linux,mysql,postgres,php,postman,vue,git)](https://skillicons.dev)
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zarasfara&show_icons=true&theme=dark&locale=en" alt="zarasfara" /></p>
